@@ -1,3 +1,5 @@
-# Chess with Python By CutyApple
+# python_project
+# CutyApple's Chess
 
-# From 2019 - 11 - 11
+# Start : 2019 - 11 - 11 with Python By CutyApple
+# End :
